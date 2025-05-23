@@ -1,2 +1,2 @@
 # My BIO
-Tech Enthusiast & Digital Wealth Explorer: In tech. since 1991, digital landscape witness, computer~literate, digital wealth evangelist, forward-thinker. New opportunities seeker, willing to go beyond the limits and towards financial growth through technological methods.
+Tech. enthusiast, digital wealth explorer; in tech. since 1991, digital landscape witness, computer-literate, digital wealth evangelist, forward-thinker.
