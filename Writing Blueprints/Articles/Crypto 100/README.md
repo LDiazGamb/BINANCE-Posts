@@ -1,6 +1,6 @@
-# Crypto Trading 101: What any crypto trader should know
+# Crypto Trading 100: The truths that every living creature must know about trading Cryptos for the first time.
 
-#### **Introduction**  
+### **Introduction**  
 - **Hook:** Start with a compelling statistic or fact about crypto growth.  
 - **Brief Overview:** Explain why crypto trading is attracting investors worldwide.  
 - **What Readers Will Learn:** Outline key takeaways (security, strategies, risk management).  
@@ -36,3 +36,5 @@
 - Encourage readers to start trading wisely.  
 - Suggest trusted resources or platforms to begin trading.  
 - Invite engagement (comments, subscriptions, next steps).
+
+![Crypto100](Crypto100.png)
