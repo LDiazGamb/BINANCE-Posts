@@ -34,7 +34,7 @@ The strategy might be fundamentally weak. Maybe just buying $BTC because it's th
 
 If the risk is consciously assessed by traders, even if it’s simply the risk acknowledgment that makes the trade so risky that leverage is avoided, or make a decision based partly, however flawedly or based on incomplete the research, then it's no-longer just gambling, but rather an informed choice.
 
-## Buttom Line
+## Bottom Line
 Crypto trading isn't inherently 'gambling' because unlike pulling the levers at random in Las Vegas, where the house always wins long-term statistically, in crypto there are the traders that choose what to bet on and how much risk is involved.
 
 Luck can be owned by making conscious, even if imperfectly informed decisions. It doesn’t mean the trader will win every time or that success isn't hard-won, but it means failure stops being a statistical inevitability for those who just haven‘t done anything yet.
